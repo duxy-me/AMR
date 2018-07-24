@@ -35,7 +35,11 @@ If you use the codes, please cite our paper. Thanks!
 
 # Source Files
   Source files are stored in `src/`.
-    - main.py. The main entrance of the program.
-    - solver/*. The solvers managing the training process.
-    - model/*. The models.
-    - dataset/*. The data readers.
+  
+- main.py. The main entrance of the program.
+
+- solver/*. The solvers managing the training process.
+
+- model/*. The models.
+
+- dataset/*. The data readers.
